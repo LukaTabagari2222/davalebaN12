@@ -1,0 +1,229 @@
+.hedet-Div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 158px;
+    background-color: #191A19;
+}
+
+.JHONTRAKTOR {
+    font-family: Unlock;
+    font-size: 40.98px;
+    font-weight: 400;
+    line-height: 43.76px;
+    color: #FF7420;
+}
+
+
+.Home {
+    font-family: 'Calistoga', Static;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF7420;
+    position: relative;
+}
+
+.Home::after {
+    content: '';
+    position: absolute;
+    width: 120%;
+    height: 2px;
+    background-color: #FF7420;
+    left: 55%;
+    bottom: -12px;
+    transform: translateX(-50%);
+}
+
+.navMEnStrings {
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.FirstUlTegs {
+    display: flex;
+    width: 100%;
+    gap: 40px;
+    align-items: center;
+}
+
+.englesh {
+    display: flex;
+    gap: 10px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+
+
+.bootom-ConTact {
+    width: 192px;
+    background-color: #FF7420;
+    padding: 15px;
+    border-radius: 7%;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.seCondUlTegs {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
+.nameN {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.fa-solid {
+    font-size: 30px;
+    color: beige;
+    box-shadow: 2px 2px 30px rgb(0, 255, 42);
+    text-shadow: 2px 2px rebeccapurple;
+}
+
+.burgerBar-Div {
+    display: none;
+}
+
+.image-big {
+    width: 100%;
+    display: block;
+
+}
+
+
+
+.wepreper {
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 96px;
+    color: #FFFFFF;
+
+}
+
+.forTHe {
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.fucTeree {
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    text-align: center;
+    color: #FF7420;
+}
+
+.big-Strings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.weproviDer {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    width: 60%;
+    margin-top: 24px;
+    color: #FFFFFF;
+}
+
+.leftSmol-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 246px;
+    height: 66px;
+    border-radius: 15px;
+    background-color: #FF7420;
+}
+
+.ourSevices {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.SmolBlock-div {
+    display: flex;
+    gap: 24px;
+    margin-top: 75px;
+}
+
+.right-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 208px;
+    height: 66px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+}
+
+.vivedProjecst {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: center;
+    color: #191A19;
+}
+
+.left-coNteinner {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-110%, -50%);
+}
+
+.backgrund-Div {
+    position: relative;
+
+}
+
+.MeoRe-Secqcia {
+    display: flex;
+    width: 100%;
+    background-color: #FF7420;
+}
+
+.featureProcetc {
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 96px;
+    text-align: left;
+    color: #191A19;
+}
+.first-sTrings{
+    padding-top: 54px;
+}

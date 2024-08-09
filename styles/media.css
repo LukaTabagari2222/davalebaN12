@@ -1,0 +1,345 @@
+@media only screen and (max-width: 1240px) {
+    .left-coNteinner {
+        top: 85%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+}
+
+@media only screen and (max-width: 1157px) {
+    .JHONTRAKTOR {
+        font-family: 'Calistoga' sans-serif;
+        font-weight: 400;
+        line-height: 40px;
+        font-size: 35px;
+    }
+
+    .nameN {
+        gap: 70px;
+    }
+
+    .Home {
+        font-size: 22px;
+    }
+
+    .englesh {
+        font-size: 22px;
+    }
+
+    .bootom-ConTact {
+        width: 180px;
+    }
+
+    .Contact {
+        font-size: 22px;
+    }
+
+    .left-coNteinner {
+        top: 72%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .weproviDer {
+        width: 80%;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .SmolBlock-div {
+        margin-top: 70px;
+    }
+
+    .forTHe {
+        line-height: 50px;
+    }
+
+}
+
+@media only screen and (max-width: 1060px) {
+    .navMEnStrings {
+        font-size: 20px;
+    }
+
+    .nameN {
+        gap: 60px;
+    }
+
+    .JHONTRAKTOR {
+        font-family: 'Ga Maamli', sans-serif;
+        font-weight: 400;
+        line-height: 40px;
+        font-size: 30px;
+
+    }
+
+    .Home {
+        font-size: 20px;
+    }
+
+    .englesh {
+        font-size: 20px;
+    }
+
+    .bootom-ConTact {
+        width: 150px;
+    }
+
+    .Contact {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .JHONTRAKTOR {
+        font-weight: 400;
+        line-height: 40px;
+        font-size: 25px;
+
+    }
+
+    .Home {
+        font-size: 18px;
+    }
+
+    .englesh {
+        font-size: 18px;
+    }
+
+    .bootom-ConTact {
+        width: 130px;
+    }
+
+    .Contact {
+        font-size: 18px;
+    }
+
+    .nameN {
+        gap: 30px;
+    }
+
+    .navMEnStrings {
+        font-size: 18px;
+    }
+
+    .FirstUlTegs {
+        gap: 30px;
+    }
+
+    .wepreper {
+        font-size: 60px;
+    }
+
+    .forTHe {
+        font-size: 60px;
+    }
+
+    .weproviDer {
+        font-size: 19px;
+    }
+
+    .ourSevices {
+        font-size: 22;
+        text-shadow: 2px 2px 4px red;
+    }
+
+    .vivedProjecst {
+        font-size: 22;
+        text-shadow: 2px 2px 4px red;
+    }
+
+    .fucTeree {
+        font-size: 60px;
+    }
+
+    .SmolBlock-div {
+        margin-top: 40px;
+    }
+
+    .left-coNteinner {
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+@media only screen and (max-width: 781px) {
+    .JHONTRAKTOR {
+        display: none;
+    }
+
+    .bootom-ConTact {
+        display: none;
+    }
+
+    .Contact {
+        display: none;
+    }
+
+    .burgerBar-Div {
+        display: block;
+    }
+
+    .navMEnStrings {
+        text-shadow: 2px 2px 3px red;
+    }
+
+    .englesh {
+        text-shadow: 2px 2px 4px rgb(0, 255, 64);
+    }
+
+    .left-coNteinner {
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .SmolBlock-div {
+        margin-top: 30px;
+    }
+
+    .fucTeree {
+        font-size: 35px;
+    }
+
+    .wepreper {
+        font-size: 35px;
+    }
+
+    .forTHe {
+        font-size: 35px;
+    }
+
+    .weproviDer {
+        font-size: 15px;
+        width: 90%;
+    }
+
+    .ourSevices {
+        font-size: 18px;
+        text-shadow: 2px 2px 4px rgb(9, 235, 28);
+    }
+
+    .vivedProjecst {
+        font-size: 18px;
+        text-shadow: 2px 2px 4px rgb(9, 235, 28);
+    }
+
+    .left-coNteinner {
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .right-div {
+        width: 130px;
+        height: 50px;
+
+    }
+
+    .leftSmol-div {
+        height: 50px;
+        width: 130px;
+    }
+
+    .SmolBlock-div {
+        margin-top: 27px;
+    }
+
+    .wepreper {
+        line-height: 50px;
+    }
+
+    .weproviDer {
+        margin-top: 0px;
+    }
+
+}
+
+@media only screen and (max-width: 490px) {
+    .Home {
+        display: none;
+    }
+
+    .aboutt {
+        display: none;
+    }
+
+
+    .project {
+        display: none;
+    }
+
+    .seCondUlTegs {
+        column-gap: 60px;
+    }
+
+    .fa-solid {
+        font-size: 25px;
+    }
+
+    .wepreper {
+        font-size: 25px;
+    }
+
+    .forTHe {
+        font-size: 25px;
+        line-height: 35px;
+
+    }
+
+    .fucTeree {
+        font-size: 25px;
+
+    }
+
+    .weproviDer {
+        display: none;
+    }
+
+    .SmolBlock-div {
+        gap: 10px;
+        margin-top: 10px;
+    }
+
+    .left-coNteinner {
+        top: 35%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .leftSmol-div {
+        width: 100px;
+    }
+
+    .right-div {
+        width: 100px;
+    }
+
+    .ourSevices {
+        font-size: 10px;
+    }
+
+    .vivedProjecst {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .seCondUlTegs {
+        column-gap: 30px;
+    }
+    .SmolBlock-div{
+        display: none;
+    }
+    .forTHe {
+        font-size: 20px;
+        line-height: 30px;
+
+    }
+    .wepreper{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
