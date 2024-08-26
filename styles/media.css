@@ -4,6 +4,9 @@
         left: 50%;
         transform: translate(-50%, -50%);
     }
+    .first-sTrings{
+        flex-direction: column;
+    }
 
 }
 
@@ -54,7 +57,23 @@
     .forTHe {
         line-height: 50px;
     }
-
+.divSection-N3{
+    flex-wrap: wrap;
+}
+.frstfotos-ptegs{
+    font-size: 15px;
+}
+.seconDiv-string{
+    font-size: 15px;
+}
+.meotxeDivs-strngBoyz{
+    font-size: 15px;
+}
+.ladingwaY{
+    text-align: center;
+    font-size: 80px;
+    line-height:60px;
+}
 }
 
 @media only screen and (max-width: 1060px) {
@@ -89,6 +108,18 @@
     .Contact {
         font-size: 20px;
     }
+    .frstfotos-ptegs{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .seconDiv-string{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .meotxeDivs-strngBoyz{
+        font-size: 12px;
+        line-height: 20px;
+    }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -116,7 +147,7 @@
     }
 
     .nameN {
-        gap: 30px;
+        gap: 20px;
     }
 
     .navMEnStrings {
@@ -124,7 +155,7 @@
     }
 
     .FirstUlTegs {
-        gap: 30px;
+        gap: 40px;
     }
 
     .wepreper {
@@ -162,6 +193,23 @@
         left: 50%;
         transform: translate(-50%, -50%);
     }
+    .divSection-N3{
+        justify-content: center;
+        gap: 20px;
+    }
+    .ladingwaY{
+        font-size: 60px;
+        line-height: 70px;
+        margin-top: 50px;
+    }
+    .whatOirr{
+        font-size: 25px;
+        line-height: 38px;
+    }
+    .lamverY{
+        font-size: 18px;
+        line-height: 25px;
+    }
 }
 
 @media only screen and (max-width: 781px) {
@@ -176,6 +224,7 @@
     .Contact {
         display: none;
     }
+
 
     .burgerBar-Div {
         display: block;
@@ -254,6 +303,48 @@
     .weproviDer {
         margin-top: 0px;
     }
+    .featureProcetc{
+        font-size: 50px;
+    }
+    .allWorkuts{
+        display: none;
+    }
+    .none{
+        display:none;
+    }
+    .frstfotos-ptegs{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .seconDiv-string{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .meotxeDivs-strngBoyz{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .meotxediVs-strings{
+        left: 20%;
+    }
+    .ladingwaY{
+        font-size: 40px;
+        line-height: 60px;
+    }
+        
+    .whatOirr{
+        font-size: 21px;
+        line-height: 35px;
+    }
+
+    .lamverY{
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .team2-DIv h4{
+        font-size: 17px;
+    }
+   
 
 }
 
@@ -272,7 +363,7 @@
     }
 
     .seCondUlTegs {
-        column-gap: 60px;
+        column-gap: 50px;
     }
 
     .fa-solid {
@@ -324,6 +415,46 @@
     .vivedProjecst {
         font-size: 10px;
     }
+    .featureProcetc{
+        font-size: 30px;
+        text-shadow: 2px 2px 3px red;
+    }
+    .aTegs{
+        font-size: 15px;
+        text-shadow: 2px 2px 3px blue;
+    }
+    .meotxediVs-strings{
+        left: 20%;
+    }
+    .divSection-N3{
+        padding-top: 20px;
+        justify-content: center;
+        gap: 10px;
+    }
+    .nameN {
+        gap: 0px;
+    }
+    .FirstUlTegs {
+        gap: 35px;
+    }
+    .ladingwaY{
+        font-size: 30px;
+        line-height: 40px;
+        margin-top: 40px;
+    }
+    
+    .whatOirr{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .lamverY{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .team2-DIv h4{
+        font-size: 15px;
+    }
+   
 }
 
 @media only screen and (max-width: 375px) {
@@ -342,4 +473,31 @@
         font-size: 20px;
         line-height: 30px;
     }
+    .frstfotos-ptegs{
+        font-size: 7px;
+        line-height: 10px;
+    }
+    .seconDiv-string{
+        font-size: 7px;
+        line-height: 10px;
+    }
+    .meotxeDivs-strngBoyz{
+        font-size:7px;
+        line-height: 10px;
+    }
+    .aTegs{
+        font-size: 12px;
+    }
+    .ladingwaY{
+        font-size: 25px;
+        line-height: 30px;
+        margin-top: 20px;
+
+    }
+ 
+    .whatOirr{
+        font-size: 17px;
+        line-height: 20px;
+    }
+   
 }
