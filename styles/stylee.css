@@ -426,3 +426,380 @@
     color: #FFFFFF;
     margin-top: 91px
 }
+
+.conTEiners-marGin {
+    width: 90%;
+    margin: auto;
+    margin-top: 121px;
+    display: flex;
+    gap: 40px;
+
+}
+
+.right-conteiner {
+    width: 61%;
+    background-color: #FF7420;
+    border-radius: 5px;
+}
+
+.right-strings {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.rightconteinNErs-width {
+    width: 90%;
+    margin: auto;
+}
+
+.requset {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    margin-top: 42px;
+    color: #FFFFFF;
+}
+
+.copplate {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    width: 90%;
+    color: #FFFFFF;
+
+
+}
+
+.pirveli-IN {
+    width: 50%;
+    height: 76px;
+    border-radius: 15px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 60px;
+}
+
+.meore-IN {
+    width: 50%;
+    height: 76px;
+    border-radius: 15px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 60px;
+}
+
+.frist-imppuTs {
+    display: flex;
+    gap: 18px;
+}
+
+.secenD-Inputs {
+    display: flex;
+    gap: 18px;
+}
+
+.inputsMaaRger-Div {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-top: 18px;
+}
+
+.mesame-input {
+    width: 50%;
+    height: 76px;
+    border-radius: 15px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 60px;
+}
+
+.meoTxe-input {
+    width: 50%;
+    height: 76px;
+    border-radius: 15px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 60px;
+}
+
+.input-with-icon {
+    position: relative;
+    width: 50%;
+}
+
+.input-with-icon input {
+    width: 100%;
+}
+
+.input-with-icon img {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    transform: translateY(-50%);
+}
+
+.mexUte-inPut {
+    width: 100%;
+    height: 148px;
+    border-radius: 15px;
+    color: red;
+    text-shadow: red 2px 2px 3px;
+}
+
+#detalis {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 60px;
+}
+
+.meeqvse-input {
+    width: 100%;
+    height: 76px;
+    border-radius: 15px;
+    background-color: #191A19;
+
+}
+
+#sumbit {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+.left-ConnTeinner {
+    width: 35%;
+    background-color: #FF7420;
+    border-radius: 15px;
+}
+
+.leftConteinner-width {
+    width: 80%;
+    margin: auto;
+}
+
+.contaCtInfo {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 42px;
+}
+
+.Our {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.office {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Do {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+    width: 80%;
+}
+
+.leftConteiiners-stringsMarger {
+    display: flex;
+    flex-direction: column;
+    margin-top: 38px;
+    gap: 24px;
+}
+
+.COntaCts-Usinput {
+    width: 100%;
+    height: 76px;
+    border-radius: 15px;
+    background-color: #191A19;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.footerBig-Div {
+    display: flex;
+    width: 100%;
+    background-color: #111111;
+}
+
+.fotter-DIv {
+    width: 90%;
+    margin: auto;
+    background-color: rgb(18, 19, 19);
+    padding-top: 50px;
+}
+
+.TRakTor {
+    font-family: Unlock;
+    font-size: 33.95px;
+    font-weight: 400;
+    line-height: 36.26px;
+    color: #FFFFFF;
+}
+
+.abouTTaS {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.wehave {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+    width: 80%;
+}
+
+.fa-viber {
+    width: 26px;
+    height: 21.13px;
+    color: #FFFFFF;
+
+}
+
+.fa-twitter {
+    width: 26px;
+    height: 21.13px;
+    color: #FFFFFF;
+}
+
+.fa-facebook {
+    width: 26px;
+    height: 21.13px;
+    color: #FFFFFF;
+}
+
+.fa-instagram {
+    width: 26px;
+    height: 21.13px;
+    color: #FFFFFF;
+}
+
+.firstSection {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 100%;
+}
+
+.meoreSection {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 50px;
+    width: 70%;
+}
+
+.ooforce {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #FFFFFF;
+    width: 100%;
+}
+
+.oofice18 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+    width: 60%;
+}
+
+.meam-seqciA {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 50px;
+    width: 60%;
+}
+
+.conatcuy {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.emmail {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.lonk {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.abouhom {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+
+.meotxe-seqcia {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    width: 12%;
+    margin-top: 50px;
+}
+
+.footer-margindiv {
+    display: flex;
+}

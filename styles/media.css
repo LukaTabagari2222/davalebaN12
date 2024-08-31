@@ -74,6 +74,9 @@
     font-size: 80px;
     line-height:60px;
 }
+.meotxe-seqcia{
+    display: none;
+}
 }
 
 @media only screen and (max-width: 1060px) {
@@ -120,6 +123,12 @@
         font-size: 12px;
         line-height: 20px;
     }
+    .meam-seqciA{
+        width: 50%;
+    }
+   .meoreSection{
+    width: 60%;
+   }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -209,6 +218,30 @@
     .lamverY{
         font-size: 18px;
         line-height: 25px;
+    }
+    .left-ConnTeinner{
+        display: none;
+    }
+    .right-conteiner{
+        width: 100%;
+    }
+    .ooforce{
+        font-size: 18px;
+    }
+    .oofice18{
+        font-size: 15px;
+    }
+    .TRakTor{
+        font-size: 30px;
+    }
+    .abouTTaS{
+        font-size: 18px;
+    }
+    .wehave{
+        font-size: 18px;
+    }
+    .firstSection{
+        gap: 14px;
     }
 }
 
@@ -344,8 +377,99 @@
     .team2-DIv h4{
         font-size: 17px;
     }
-   
+    .requset{
+        font-size: 18px;
+    }
+    .copplate{
+        font-size: 18px;
+    }
+    .pirveli-IN{
+        font-size: 18px;
+        padding-left: 40px;
+        border-radius: 200px;
 
+    }
+    .meore-IN{
+        font-size: 18px;
+        padding-left: 40px;
+        border-radius: 200px;  
+    }
+    .mesame-input{
+        font-size: 18px;
+        padding-left: 40px;
+        border-radius: 200px;  
+    }
+    .meoTxe-input{
+        font-size: 18px;
+        padding-left: 40px;
+        border-radius: 200px;  
+    }
+    .input-with-icon img{
+        right: 50px;
+    }
+    .mexUte-inPut{
+        height: 120px;
+        border-radius: 200px;
+        text-align: center;
+    }
+    .meeqvse-input{
+        border-radius: 200px;
+        text-align: center;
+    }
+   
+.TRakTor{
+    font-size: 21px;
+    text-align: center;
+
+}
+.abouTTaS{
+    font-size: 12px;
+    text-align: center;
+}
+.wehave{
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+}
+.iconeS-Div{
+    text-align: center;
+}
+.meoreSection{
+    text-align: center;
+    align-items: center;
+}
+.oofice18{
+    width: 90%;
+    font-size: 12px;
+}
+.emmail{
+    font-size: 12px;
+}
+.ooforce{
+    font-size: 12px;
+}
+.conatcuy{
+    font-size: 12px;
+
+}
+}
+@media only screen and (max-width: 498px){
+    .meoreSection{
+        margin-top: 10px;
+    }
+   
+    .meam-seqciA{
+        align-items: center;
+        text-align: center;
+        gap: 0px;
+    }
+    .footer-margindiv{
+        flex-direction: column;
+        align-items: center;
+       }
+       .meam-seqciA{
+        margin-top: 10px;
+       }
 }
 
 @media only screen and (max-width: 490px) {
@@ -454,7 +578,91 @@
     .team2-DIv h4{
         font-size: 15px;
     }
+
+    .requset{
+        text-align: center;
+        font-size: 15px;
+    }
+    .copplate{
+        font-size: 15px;
+        text-align: center;
+        width: 100%;
+    }
+    .frist-imppuTs{
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;
+    }
+    .pirveli-IN{
+        width: 100%;
+        text-align: center;
+        padding-left: 0px;
+        font-size: 15px;
+        animation-name:meorein;
+        animation-iteration-count: infinite;
+        animation-delay: 1s;
+        animation-duration: 2s;
+
+    }
+    .meore-IN{
+        width: 100%;
+        text-align: center;
+        padding-left: 0px;
+        font-size: 15px;
+        animation-name:meorein;
+        animation-iteration-count: infinite;
+        animation-delay: 1s;
+        animation-duration: 2s;
+    }
+    
+   @keyframes meorein {
+    10%{
+        color: red;
+        text-shadow: 2px 2px 3px red;
+    }
+    20%{
+        color: rebeccapurple;
+        text-shadow: 2px 2px 3px blue;
+    }
+    
+   }
+   .secenD-Inputs{
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+   }
+   .mesame-input{
+    text-align: center;
+    font-size: 15px;
+    width: 100%;
+    padding-left: 0px;
+    animation-name:meorein;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+    animation-duration: 2s;
+   }
+   .input-with-icon{
+    width: 100%;
    
+   }
+   .meoTxe-input{
+    font-size: 15px;
+    padding-left: 0px;
+    text-align: center;
+    animation-name:meorein;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+    animation-duration: 2s;
+   }
+   .input-with-icon img{
+    right: 80px;
+   }
+   .inputsMaaRger-Div{
+    gap: 5px;
+   }
+   #detalis{
+    padding-left: 0px;
+   }
 }
 
 @media only screen and (max-width: 375px) {
